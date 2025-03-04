@@ -31,14 +31,12 @@ Identify and describe at least three key milestones in the evolution of software
   recognizing software development as a 
   distinct discipline that needed formal 
   methods.
-
  2)Structured Programming Movement 
   (1970s): Advocated for using 
   structured techniques, improving 
   software design and maintainability, 
   and moving away from unstructured code 
   practices.
-
  3)Agile Methodologies (2001): The Agile 
   Manifesto introduced adaptive planning 
   and iterative development, emphasizing 
