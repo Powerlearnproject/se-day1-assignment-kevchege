@@ -31,12 +31,14 @@ Identify and describe at least three key milestones in the evolution of software
   recognizing software development as a 
   distinct discipline that needed formal 
   methods.
+>
  2)Structured Programming Movement 
   (1970s): Advocated for using 
   structured techniques, improving 
   software design and maintainability, 
   and moving away from unstructured code 
   practices.
+>
  3)Agile Methodologies (2001): The Agile 
   Manifesto introduced adaptive planning 
   and iterative development, emphasizing 
@@ -45,39 +47,40 @@ Identify and describe at least three key milestones in the evolution of software
   is developed today.
 
 List and briefly explain the phases of the Software Development Life Cycle.
-1)Planning; is the initial stage 
-  involves defining project scope and 
-  requirments. it iinvolves feasibility 
-  studies and resource allocation
+>
+ 1)Planning; is the initial stage 
+   involves defining project scope and 
+   requirments. it iinvolves feasibility 
+   studies and resource allocation
 
-2)Requirements and Analysis stage; is 
-  the phase where involves gathering 
-  and documenting detailed software 
-  requirements from stakeholders.
+ 2)Requirements and Analysis stage; is 
+   the phase where involves gathering 
+   and documenting detailed software 
+   requirements from stakeholders.
 
-3)Design; it is the phase where actual  
-  creation of the systems architecture 
-  begins, adding user interfaces , 
-  databases, and security consideration.
+ 3)Design; it is the phase where actual  
+   creation of the systems architecture 
+   begins, adding user interfaces , 
+   databases, and security consideration.
 
-4)Implementation; this is whwre writing 
-  and coding of the software based on 
-  the design specifications.
+ 4)Implementation; this is whwre writing 
+   and coding of the software based on 
+   the design specifications.
+ 
+ 5)Testing; The system is run through 
+   various test methods for identifying 
+   possible bugs within the system and 
+   debugging errors and aslo ensuring 
+   smooth intergration of the system.
+ 
+ 6)Deployment; Releasing the software to 
+   the intended environment or users
 
-5)Testing; The system is run through 
-  various test methods for identifying 
-  possible bugs within the system and 
-  debugging errors and aslo ensuring 
-  smooth intergration of the system.
-
-6)Deployment; Releasing the software to 
- the intended environment or users
-
-7)Maintenance; Providing ongoing system 
-  support, software updates and bug 
-  fixes, ensuring the software 
-  continues to function smoothly after 
-  deployment
+ 7)Maintenance; Providing ongoing system 
+   support, software updates and bug 
+   fixes, ensuring the software 
+   continues to function smoothly after 
+   deployment
  
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 >Waterfall methodology is a traditional software development approach characterixed by a linear and sequential process that follows a distinct flow like a waterfall, whereas agile methodology is an iterative and incrememntal approach to software development which focuses on flexibility, customer collaborations and rapid delivery to function software.
